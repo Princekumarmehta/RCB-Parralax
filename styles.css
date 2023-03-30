@@ -286,10 +286,26 @@ body {
     .page-4 {
         background-attachment: scroll;
     }
-    p{
-        font-size: 0.6rem;
-        line-height: 1.2;
+   p{
+        font-size: 0.7rem;
+        line-height: 1.5;
         display: block;
+    }
+    #Virat-move{
+       
+       height:15.5rem ;
+       width:19rem ;
+       position: relative;
+       top:125px;
+       left:-50px;
+    }
+    #Maxwell-move{
+        height: 15.5rem;
+            width: 19rem;
+            position: relative;
+            left:200px;
+            top:150px;
+
     }
 }
 @keyframes slideInUp{
